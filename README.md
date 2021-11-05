@@ -1,4 +1,3 @@
-![preview](https://s9.gifyu.com/images/q0hy1h.md.gif)
 
 
 # A Formal Analysis of The Average (Detected) Fortnite Cheat
