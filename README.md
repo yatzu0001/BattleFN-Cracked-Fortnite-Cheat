@@ -2,6 +2,8 @@
 
 0day @ IZI team 
 
+yatzu#7293
+
 Explaining why anti-cheats are winning the mouse-cat game 
 
 # Abstract
@@ -170,14 +172,6 @@ detect it (just think about BE shellcode to detect overlays)
 # Extra: cheat modules
 **Note: the modules are surely already outdated as the developer is pushing more then an update per day. The drivers and the user-mode cheat module, however, are actual as the updates I’ve been seeing through those days were just about the main loader and the external cheat.**
 
-All of the modules are decrypted but VMProtect protected, no unpacked (and devirtualized) binaries in this paper.
-
-[BattleFN loader](https://gofile.io/d/Zn6NPi)\
-[vmdrv.sys](https://gofile.io/d/FsahTs)- vmdrv.sys\
-[BattleFN driver manual mapper](https://gofile.io/d/sYb4zX)\
-[BattleFN cheat driver](https://gofile.io/d/xdhzqI)\
-[BattleFN external cheat executable](https://gofile.io/d/ENVVUf)\
-[BattleFN usermode cheat module](https://gofile.io/d/xokdTg)
 
 ## How to inject the cracked cheat
 1. Extract all in the SAME DIRECTORY
