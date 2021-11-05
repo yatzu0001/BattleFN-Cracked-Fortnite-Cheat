@@ -185,7 +185,7 @@ All of the modules are decrypted but VMProtect protected, no unpacked (and devir
 
 
 ## How to inject the cracked cheat
-
+1. Extract all in the SAME DIRECTORY
 1. Go in your C:\\ Directory, and put Driver.sys
 
 1. create a batch file with this content :
@@ -197,3 +197,5 @@ sc create AJIFHJ24981 binpath="PATH_TO_DRV\AJIFHJ24981.sys" type=kernel
 sc start AJIFHJ24981
 sc delete AJIFHJ24981
 pause
+
+1. Run battlefn_crack.exe
