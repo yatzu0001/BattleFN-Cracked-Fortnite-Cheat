@@ -2,8 +2,6 @@
 
 0day @ IZI team 
 
-yatzu#7293
-
 Explaining why anti-cheats are winning the mouse-cat game 
 
 # Abstract
@@ -180,9 +178,6 @@ All of the modules are decrypted but VMProtect protected, no unpacked (and devir
 [BattleFN cheat driver](https://gofile.io/d/xdhzqI)\
 [BattleFN external cheat executable](https://gofile.io/d/ENVVUf)\
 [BattleFN usermode cheat module](https://gofile.io/d/xokdTg)
-
-
-
 
 ## How to inject the cracked cheat
 1. Extract all in the SAME DIRECTORY
